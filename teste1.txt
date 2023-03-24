@@ -1,0 +1,12 @@
+iniciar uma feature com git flow
+git flow feature start <feature_name>
+
+finalizar uma feature com git flow
+git flow feature finish <feature_name>
+
+iniciar uma release com git flow
+git flow release start <version_release>
+
+finalizar uma release com git flow
+git flow release finish <version_release>
+

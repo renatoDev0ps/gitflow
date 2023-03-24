@@ -1,0 +1,5 @@
+iniciar uma release com git flow
+git flow release start <version_release>
+
+finalizar uma release com git flow
+git flow release finish <version_release>
